@@ -20,8 +20,8 @@ WebGL 960 x 600 px
 
 
 ### Lessons Learned: 
-
-
+Switch Platform from Standalone to WebGL
+Build WebGl
 
 
 Copyright by Clea Eliasch
