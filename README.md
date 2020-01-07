@@ -1,5 +1,27 @@
-# Template Repository for Unity3D version 2019.1.14f1
+# inclass-webgl-celiasch
+ 
+ ### Project description: 
+WebGl testing repository and hosting. 
 
-- Unity3D preset 2D
-- .gitignore is standard for Unity3D with Logs and Packages added due to new version of Unity3D. 
-  Additionally with Mac and Windows basic ignores.
+### Development platform: 
+Windows 10
+Unity Version: 2019.1.14f1
+Visual Studio Code Version: 1.33.0
+Scripting Runtime Version: .NET 4.x Equivalent
+API Compatibility Level: .NET 2.0
+
+### Target platform: 
+WebGL 960 x 600 px
+
+### Project state: 
+0% fertig
+
+### Limitations: 
+
+
+### Lessons Learned: 
+
+
+
+
+Copyright by Clea Eliasch
