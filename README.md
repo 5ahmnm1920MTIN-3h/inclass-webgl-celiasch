@@ -13,15 +13,25 @@ API Compatibility Level: .NET 2.0
 ### Target platform: 
 WebGL 960 x 600 px
 
+### Visuals: 
+Screenshots (concept and experience), Video
+* None
+
+### Necessary setup/execution steps: 
+Installation process, e.g. step by step instructions that I can run the project after cloning it
+* None
+
+### Third party material: 
+(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+* None
+
 ### Project state: 
-0% fertig
+100% done
 
-### Limitations: 
-
+### Limitations: None
 
 ### Lessons Learned: 
-Switch Platform from Standalone to WebGL
-Build WebGl
-
+* Switch Platform from Standalone to WebGL
+* Build WebGL Github Pages, with docs
 
 Copyright by Clea Eliasch
